@@ -55,6 +55,7 @@ reactioncommerce:reaction-checkout
 reactioncommerce:reaction-ui
 reactioncommerce:reaction-ui-navbar
 reactioncommerce:reaction-ui-tagnav
+reactioncommerce:reaction-collections
 
 # Reaction Payment Packages
 
@@ -70,4 +71,9 @@ reactioncommerce:reaction-sample-data   # default Reaction data
 
 # Themes
 reactioncommerce:default-theme          # default Reaction theme
-#my:custom-theme
+# my:custom-theme-template
+
+# Search Dependencies
+easy:search
+easysearch:autosuggest
+custom:search

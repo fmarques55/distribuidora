@@ -36,6 +36,12 @@ Package.onUse(function (api) {
   api.use("juliancwirko:s-alert-stackslide@3.1.3");
   api.use("kevohagan:sweetalert@1.0.0");
 
+  //distribuidora-searchpackage
+  api.use("custom:search", 'client');
+  api.use('easy:search');
+  api.use('easysearch:autosuggest');
+
+
   // register reaction package
   api.addFiles("server/register.js", "server");
 
