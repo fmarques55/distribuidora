@@ -70,8 +70,8 @@ reactioncommerce:reaction-braintree
 reactioncommerce:reaction-sample-data   # default Reaction data
 
 # Themes
-reactioncommerce:default-theme          # default Reaction theme
-# my:custom-theme-template
+# reactioncommerce:default-theme          # default Reaction theme
+custom:theme
 
 # Search Dependencies
 easy:search

@@ -57,6 +57,7 @@ chuangbo:cookie@1.1.0
 coffeescript@1.0.11
 cosmos:browserify@0.10.0
 custom:search@1.0.0
+custom:theme@1.0.0
 ddp@1.2.2
 ddp-client@1.2.1
 ddp-common@1.2.2
@@ -155,7 +156,6 @@ react-runtime-prod@0.14.4
 react-template-helper@0.2.6
 reactioncommerce:core@0.12.0
 reactioncommerce:core-theme@2.0.1
-reactioncommerce:default-theme@1.0.4
 reactioncommerce:launchdock-connect@0.2.1
 reactioncommerce:reaction-accounts@1.7.0
 reactioncommerce:reaction-analytics@1.2.3

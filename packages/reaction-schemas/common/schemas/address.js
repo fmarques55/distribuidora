@@ -31,7 +31,7 @@ ReactionCore.Schemas.Address = new SimpleSchema({
   },
   fullName: {
     type: String,
-    label: "Full name"
+    label: "Full Name"
   },
   address1: {
     label: "Address 1",
@@ -61,7 +61,9 @@ ReactionCore.Schemas.Address = new SimpleSchema({
   },
   postal: {
     label: "ZIP/Postal Code",
-    type: String
+    type: Number,
+    min: 70000000,
+    max: 70999999
   },
   country: {
     type: String,
